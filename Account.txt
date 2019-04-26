@@ -1,2 +1,1 @@
-Sample text
-hjdjfbkjsdhfkjf
+a=10
