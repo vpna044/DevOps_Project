@@ -5,3 +5,4 @@ Sample text
 hjdjfbkjsdhfkjf
 >>>>>>> 096c26015917efe33007f071364b3affd54e7ef1
 New Text added
+
