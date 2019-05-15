@@ -1,2 +1,3 @@
 Logout
-New line added for test
+New line added for test modified text
+sample text from Git hub
